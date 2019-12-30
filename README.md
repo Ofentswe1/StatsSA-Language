@@ -10,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Work to convert StatsSA statistical language glossary into machind readable text.
+Work to convert StatsSA statistical language glossary into machine readable text.
 
 
 <!-- GETTING STARTED -->
